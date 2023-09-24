@@ -1,0 +1,14 @@
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\bin\Debug\net7.0\task4.exe
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\bin\Debug\net7.0\task4.deps.json
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\bin\Debug\net7.0\task4.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\bin\Debug\net7.0\task4.pdb
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\refint\task4.dll
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.pdb
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+C:\Users\Комплюктер\Desktop\GB\C#\homework_1\task4\obj\Debug\net7.0\ref\task4.dll
