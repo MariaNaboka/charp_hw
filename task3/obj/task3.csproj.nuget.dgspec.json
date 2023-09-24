@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task1\\task1.csproj": {}
+    "C:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task3\\task3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task1\\task1.csproj": {
+    "C:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "c:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task3\\task3.csproj",
+        "projectName": "task3",
+        "projectPath": "C:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task3\\task3.csproj",
         "packagesPath": "C:\\Users\\Комплюктер\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task1\\obj\\",
+        "outputPath": "C:\\Users\\Комплюктер\\Desktop\\GB\\C#\\homework_1\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Комплюктер\\AppData\\Roaming\\NuGet\\NuGet.Config"
